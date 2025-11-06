@@ -1,0 +1,5 @@
+{
+  "name": "Tài liệu tập huấn nội bộ",
+  "description": "An internal training application for a software company that provides educational products to schools. It features different training modules and an interactive practice section powered by Gemini.",
+  "requestFramePermissions": []
+}
